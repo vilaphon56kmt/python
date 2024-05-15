@@ -1,15 +1,15 @@
 
 ## Thông tin cá nhân
-Họ và tên: Viengsavanh Vilaphon
-mssv:Laos195087
-lớp:K56kmt
+- Họ và tên: Viengsavanh Vilaphon
+- mssv:Laos195087
+- lớp:K56kmt
 ## đề tài
 THOI DÕI GIÁ TRỊ CỦA TOP CÁC CẦU THỦ KICKBOXING HÀNG ĐẦU TRÊN THẾ GIỚI
 
 ## 1.Cơ sở dữ liệu:
 - Bảng: Player: Lưu thông tin về cầu thủ, bao gồm ID (PK), tên,năm sinh, quốc tịch, giá trị chuyển nhượng.
 - Stored Procedures (SP_): SP_GetTopPlayers: Lấy thông tin của 5 cầu thủ có giá trị chuyển nhượng cao nhất.
-## 2.Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ trang web chuyên về KICKBOXING  hoặc dịch vụ API thương mại như one championship
+ ## 2. Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ trang web chuyên về KICKBOXING  hoặc dịch vụ API thương mại như one championship
 ## Mô tả nguồn dữ liệu:
 
 - Sử dụng Web Scraping hoặc lấy dữ liệu qua API của các trang web chuyên về KICKBOXING 
