@@ -4,7 +4,7 @@
 - mssv:Laos195087
 - lớp:K56kmt
 ## đề tài
-THOI DÕI GIÁ TRỊ CỦA TOP CÁC CẦU THỦ KICKBOXING HÀNG ĐẦU TRÊN THẾ GIỚI
+THEO DÕI GIÁ TRỊ CỦA TOP CÁC CẦU THỦ KICKBOXING HÀNG ĐẦU TRÊN THẾ GIỚI
 
 ## 1.Cơ sở dữ liệu:
 - Bảng: Player: Lưu thông tin về cầu thủ, bao gồm ID (PK), tên,năm sinh, quốc tịch, giá trị chuyển nhượng.
