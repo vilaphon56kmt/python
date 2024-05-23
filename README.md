@@ -16,7 +16,7 @@ Theo dõi bảng xếp hạng của các đội thi đấu Futsal ThaiLeague
  + remaining: số trận còn lại
  + points: Điểm số
  + ranh: bảng xếp hạng
-+ Stored Procedures (SP_): SP_GetTopTeam: Lấy thông tin của 4 đội Futsal có số điểm cao nhất
+## Stored Procedures (SP_): SP_GetTopTeam: Lấy thông tin của 4 đội Futsal có số điểm cao nhất
 
  ## 2. Module đọc dữ liệu: Sử dụng Python và FastAPI để tạo một API để lấy dữ liệu từ trang web chuyên về Futsal hoặc dịch vụ API thương mại như FIFA
 ## Mô tả nguồn dữ liệu:
